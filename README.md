@@ -1,3 +1,3 @@
 ## Hi there  :)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-vn" width="250">
-<img align="left" size="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rn-vn" width="430">
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn-vn&layout=compact">
+<img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=rn-vn">
